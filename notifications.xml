@@ -1,8 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Build sync orphan modules" displayType="NONE" />
-    <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
-    <notification groupId="Error Report" />
-    <notification groupId="Plugins updates" displayType="STICKY_BALLOON" />
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
   </component>
 </application>
