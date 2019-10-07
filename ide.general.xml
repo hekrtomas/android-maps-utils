@@ -2,5 +2,6 @@
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
     <option name="defaultProjectDirectory" value="I:\" />
+    <option name="showTipsOnStartup" value="false" />
   </component>
 </application>
